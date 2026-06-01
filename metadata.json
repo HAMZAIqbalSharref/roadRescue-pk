@@ -1,0 +1,6 @@
+{
+  "name": "RoadRescue PK",
+  "description": "Premium on-demand roadside vehicle assistance platform in Pakistan. Find nearby mechanics, tire change, towing and battery help in real-time.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
